@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 import requests
-import json
 
 # Load custom CSS
 with open("app/css/styles.css") as f:
@@ -26,7 +25,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
 
 st.markdown(
     """
