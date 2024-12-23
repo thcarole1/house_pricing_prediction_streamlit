@@ -12,7 +12,7 @@ st.markdown(
     <h1>House price prediction </h1>
     <h2> Features </h2>
 
-    We have the folowing features : <br>
+    We have the following features : <br>
     - **Longitude**: Geographical longitude of the block group's centroid.
     - **Latitude**: Geographical latitude of the block group's centroid.
     - **Housing median age**: Median age of houses in the block group.
