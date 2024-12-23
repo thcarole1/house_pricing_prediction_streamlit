@@ -39,6 +39,8 @@ st.markdown(
     The next step is to choose a performance measure.<br><br>
     For regression problems, a common choice is the root mean square error (RMSE).<br><br>
     It shows how much error the model typically makes, giving more weight to larger errors.<br><br>
+
+    <h1>Let's go ! </h1>
     """,
     unsafe_allow_html=True
 )
