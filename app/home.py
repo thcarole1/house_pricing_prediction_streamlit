@@ -23,7 +23,7 @@ st.markdown(
     <b>This decision is crucial as it impacts revenue</b>.<br><br>
 
     <h3> What is the current solution (if it exists) ?</h3>
-    Understanding it can provide a <b>performance baseline</b> and <b>ideas for solving the problem</b>br><br>
+    Understanding it can provide a <b>performance baseline</b> and <b>ideas for solving the problem</b><br><br>
     In our corporation, housing prices are <b>currently estimated manually</b> by experts who gather district data and use complex rules when the median price isn’t available. <br>
     This process is <b>expensive</b>, <b>slow</b>, and <b>often inaccurate—estimates are frequently off by over 30%</b>.<br><br>
     The company wants to train a model to predict median housing prices using district data.<br><br>
@@ -40,6 +40,7 @@ st.markdown(
     The next step is to choose a performance measure.<br><br>
     For regression problems, a common choice is the <b>root mean square error (RMSE)</b>.<br><br>
     It shows how much error the model typically makes, giving more weight to larger errors.<br><br>
+    We'll also look at some other metrics ! <br><br>
 
     <h1>Let's go ! </h1>
     """,
