@@ -1,4 +1,4 @@
-# house_pricing_prediction
+# house_pricing_prediction STREAMLIT APPLICATION
 
 # Housing price prediction : The big picture
 Welcome to the Machine Learning Housing Corporation!
